@@ -1,0 +1,91 @@
+body{
+    padding: 10px;
+    margin: 0;
+    background-color: gray;
+    overflow-x: hidden;
+}
+
+.menu{
+    padding: 10px;
+}
+.menu ul{
+    list-style: none;
+
+}
+.slide{
+    padding: 10px;
+}
+.best{
+    padding: 20px;
+}
+.best .box img{
+    width: 100%;
+    padding: 20px;
+    border: 1px groove ;
+}
+.best .row{
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+}
+.beauty{
+    padding: 20px;
+}
+.beauty .box img{
+    padding: 25px;
+    width: 100%;
+    border: 1px groove;
+}
+.beauty .box img{
+    padding: 25px;
+    width: 100%;
+    border: 1px groove;
+}
+
+.beauty .row{
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+}
+.topdeal{
+    padding: 20px;
+}
+.finest{
+    padding: 20px;
+}
+.finest .row{
+    padding: 20px;
+    background-color: rgb(252, 252, 252);
+}
+.topdeal .box img{
+    width: 100%;
+    border: 2px groove;
+}
+.topdeal .row{
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+}
+.box1 .box2{
+    margin:10px 0;
+}
+.box1 img{
+    max-width: 100%;
+}
+.box2{
+    margin:10px 0;
+}
+.box2 img{
+    max-width: 100%;
+}
+.footer{
+    padding: 20px;
+}
+.hrline{
+    height: 1px;
+    width: 100%;
+    background-image: linear-gradient(to right, transparent, #DBDBDB, transparent);
+    float: left;
+    margin-top: 30px;
+}
+.footer{
+    background-color: rgb(37, 36, 36);
+    color: white;
+}
